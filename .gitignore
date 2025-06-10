@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Gulp dist output
+dist/
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
